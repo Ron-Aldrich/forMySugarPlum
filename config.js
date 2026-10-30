@@ -20,145 +20,145 @@ You can write as much as you want. There is no limit.`,
   memories: [
     {
       
-      photos: ["photos/p1.PNG",],
+      photos: ["photos/p1.png",],
       date: "The day we met",
       title: "Where it started",
       message: "Write your message for this picture here.\nYou can use more than one line."
     },
     {
-      photos: ["photos/p2.PNG", "photos/p3.PNG", "photos/p4.PNG", "photos/p5.PNG", "photos/p6.PNG", "photos/p7.PNG", "photos/p8.PNG"],
+      photos: ["photos/p2.png", "photos/p3.png", "photos/p4.png", "photos/p5.png", "photos/p6.png", "photos/p7.png", "photos/p8.png"],
       date: "Date or place",
       title: "A small title",
       message: "Tell her what this moment meant to you."
     },
     {
-      photos: ["photos/p9.PNG", "photos/p10.PNG", "photos/p10.PNG", "photos/P12.PNG"],
+      photos: ["photos/p9.png", "photos/p10.png", "photos/p10.png", "photos/P12.png"],
       date: "Date or place",
       title: "Another memory",
       message: "Tell her what you remember most about this day."
     },
     {
-      photos: ["photos/p13.PNG", "photos/p14.PNG", "photos/p15.PNG", "photos/P16.PNG", "photos/P17.PNG"],
+      photos: ["photos/p13.png", "photos/p14.png", "photos/p15.png", "photos/P16.png", "photos/P17.png"],
       date: "Date or place",
       title: "Another memory",
       message: "Tell her what you remember most about this day."
     },
     {
-      photos: ["photos/p18.PNG", "photos/p19.PNG"],
+      photos: ["photos/p18.png", "photos/p19.png"],
       date: "Date or place",
       title: "Another memory",
       message: "Tell her what you remember most about this day."
     },
     {
-      photos: ["photos/p20.PNG", "photos/p21.PNG", "photos/p22.PNG"],
+      photos: ["photos/p20.png", "photos/p21.png", "photos/p22.png"],
       date: "Date or place",
       title: "Another memory",
       message: "Tell her what you remember most about this day."
     },
     {
-      photos: ["photos/p23.PNG", "photos/p24.PNG"],
+      photos: ["photos/p23.png", "photos/p24.png"],
       date: "Date or place",
       title: "Another memory",
       message: "Tell her what you remember most about this day."
     },
     {
-      photos: ["photos/p25.PNG", "photos/p27.PNG", "photos/p27.PNG"],
+      photos: ["photos/p25.png", "photos/p27.png", "photos/p27.png"],
       date: "Date or place",
       title: "Another memory",
       message: "Tell her what you remember most about this day."
     },
     {
-      photos: ["photos/p28.PNG", "photos/p29.PNG"],
+      photos: ["photos/p28.png", "photos/p29.png"],
       date: "Date or place",
       title: "Another memory",
       message: "Tell her what you remember most about this day."
     },
     {
-      photos: ["photos/p30.PNG"],
+      photos: ["photos/p30.png"],
       date: "Date or place",
       title: "Another memory",
       message: "Tell her what you remember most about this day."
     },
     {
-      photos: ["photos/p31.PNG"],
+      photos: ["photos/p31.png"],
       date: "Date or place",
       title: "Another memory",
       message: "Tell her what you remember most about this day."
     },
     {
-      photos: ["photos/p32.PNG"],
+      photos: ["photos/p32.png"],
       date: "Date or place",
       title: "Another memory",
       message: "Tell her what you remember most about this day."
     },
     {
-      photos: ["photos/p33.PNG"],
+      photos: ["photos/p33.png"],
       date: "Date or place",
       title: "Another memory",
       message: "Tell her what you remember most about this day."
     },
     {
-      photos: ["photos/p34.PNG", "photos/p35.PNG", "photos/p36.PNG"],
+      photos: ["photos/p34.png", "photos/p35.png", "photos/p36.png"],
       date: "Date or place",
       title: "Another memory",
       message: "Tell her what you remember most about this day."
     },
     {
-      photos: ["photos/p37.PNG", "photos/p38.PNG", "photos/p39.PNG"],
+      photos: ["photos/p37.png", "photos/p38.png", "photos/p39.png"],
       date: "Date or place",
       title: "Another memory",
       message: "Tell her what you remember most about this day."
     },
     {
-      photos: ["photos/p40.PNG", "photos/p41.PNG"],
+      photos: ["photos/p40.png", "photos/p41.png"],
       date: "Date or place",
       title: "Another memory",
       message: "Tell her what you remember most about this day."
     },
     {
-      photos: ["photos/p42.PNG"],
+      photos: ["photos/p42.png"],
       date: "Date or place",
       title: "Another memory",
       message: "Tell her what you remember most about this day."
     },
     {
-      photos: ["photos/p43.PNG", "photos/p44.PNG", "photos/p45.PNG"],
+      photos: ["photos/p43.png", "photos/p44.png", "photos/p45.png"],
       date: "Date or place",
       title: "Another memory",
       message: "Tell her what you remember most about this day."
     },
     {
-      photos: ["photos/p46.PNG", "photos/p47.PNG", "photos/p48.PNG","photos/p49.PNG","photos/p50.PNG"],
+      photos: ["photos/p46.png", "photos/p47.png", "photos/p48.png","photos/p49.png","photos/p50.png"],
       date: "Date or place",
       title: "Another memory",
       message: "Tell her what you remember most about this day."
     },
     {
-      photos: ["photos/p51.PNG", "photos/p52.PNG"],
+      photos: ["photos/p51.png", "photos/p52.png"],
       date: "Date or place",
       title: "Another memory",
       message: "Tell her what you remember most about this day."
     },
     {
-      photos: ["photos/p53.PNG"],
+      photos: ["photos/p53.png"],
       date: "Date or place",
       title: "Another memory",
       message: "Tell her what you remember most about this day."
     },
     {
-      photos: ["photos/p54.PNG"],
+      photos: ["photos/p54.png"],
       date: "Date or place",
       title: "Another memory",
       message: "Tell her what you remember most about this day."
     },
     {
-      photos: ["photos/p56.PNG"],
+      photos: ["photos/p56.png"],
       date: "Date or place",
       title: "Another memory",
       message: "Tell her what you remember most about this day."
     },
     {
-      photos: ["photos/p55.PNG", "photos/p57.PNG"],
+      photos: ["photos/p55.png", "photos/p57.png"],
       date: "Date or place",
       title: "Another memory",
       message: "Tell her what you remember most about this day."
