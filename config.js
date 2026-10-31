@@ -164,7 +164,7 @@ const SITE = {
       message: "Eto yung time na ang dry-dry mo na sa akin :((, and i am happy narin that time kasi nag call ka sa akin and unexpected kasi I thought na hindi ka na tatawag"
     },
     {
-      photos: ["photos/p58.png"],
+      photos: ["photos/p58.PNG"],
       date: "",
       title: "BLE",
       message: "I was so happy during this time cuz gumaan yung pakiramdam ko after all, and knowing na you missed me too made me eeven happier :>"
