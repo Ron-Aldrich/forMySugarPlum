@@ -8,7 +8,20 @@ const SITE = {
   introButton: "Tap to begin",
 
   letterTitle: "One last thing",
-  letter: `Hello, MySugarPlum.
+  letter: `
+  Hello, KC!
+
+So, I made this website para kapag na-miss mo ako, pwede ka lang mag-visit here. Pero hindi naman ako mawawala eh, we're still friends pa rin naman po.
+
+Ma-mi-miss ko lang yung dating bonding natin and yung mga kulitan. Pero gaya nga ng sinabi mo na nahihirapan akong i-compromise yung convictions mo, yes, masakit siya. It hurts me, pero wala naman akong magagawa :( I just need to understand na lang po.
+
+So, magse-set na rin ako ng boundaries, pero we can still talk pa rin naman every day. May boundaries na nga lang.
+
+Yes, alam kong mahirap :( And I noticed din your behavior these past few days. Parang nagcha-change na, hindi na katulad ng dati, and parang dini-distance mo na yung sarili mo sa akin. So ayun, pero it's up to you if gusto mo pa ring i-continue kapag nag-convert ako to Pentecostalism hehe. I hope so.
+
+So ayun, nagba-brain freeze na naman ako. Hindi ko na naman alam kung ano ang mga sasabihin ko :< Pero ayun nga, I miss you so much :(.
+
+Kapag may problems ka or anything, you can approach me lang po. And we can still call every night if you want po!
 
 
 
