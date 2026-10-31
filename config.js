@@ -32,7 +32,7 @@ You can write as much as you want. There is no limit.`,
       message: "Tell her what this moment meant to you."
     },
     {
-      photos: ["photos/p9.png", "photos/p10.png", "photos/p10.png", "photos/P12.png"],
+      photos: ["photos/p9.png", "photos/p10.png", "photos/p10.png", "photos/p12.png"],
       date: "Date or place",
       title: "Another memory",
       message: "Tell her what you remember most about this day."
