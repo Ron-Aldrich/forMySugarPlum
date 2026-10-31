@@ -202,7 +202,7 @@ const SITE = {
 
   videos: [
     { src: "videos/01.mp4", caption: "" },
-    { src: "videos/02.mp4", caption: "Another one of us" }
+    { src: "videos/02.mp4", caption: "" }
     
   ]
 };
