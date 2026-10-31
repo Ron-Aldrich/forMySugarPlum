@@ -141,27 +141,27 @@ const SITE = {
     },
     {
       photos: ["photos/p53.png"],
-      date: "Date or place",
-      title: "Another memory",
-      message: "Tell her what you remember most about this day."
+      date: "",
+      title: "What a Cinema",
+      message: "Eto yung nagustuhan ko sa pic mo sa akin HAHAHAHA, ang cute lang. Syempre ako na to eh dibahhcvv :>"
     },
     {
       photos: ["photos/p54.png"],
-      date: "Date or place",
-      title: "Another memory",
-      message: "Tell her what you remember most about this day."
+      date: "",
+      title: "What a PEPSI",
+      message: "Eto yung a-asarin sana kita kaso na cute-an ako sa face ko, so siguro hindi ka na-asar, na cute-an ka sa akin noh HAHAHAHA"
     },
     {
       photos: ["photos/p56.png"],
-      date: "Date or place",
-      title: "Another memory",
-      message: "Tell her what you remember most about this day."
+      date: "",
+      title: "DEPARTURE",
+      message: "Eto yung time na gustong-gusto ko balikan. The way you used to chat me, the way we talked and yung excitement natin every time na magkausap tayo, I miss how things used to be :(("
     },
     {
       photos: ["photos/p55.png", "photos/p57.png"],
-      date: "Date or place",
-      title: "Another memory",
-      message: "Tell her what you remember most about this day."
+      date: "",
+      title: "No title",
+      message: "Eto yung time na ang dry-dry mo na sa akin :((, and i am happy narin that time kasi nag call ka sa akin and unexpected kasi I thought na hindi ka na tatawag"
     }
     
   ],
