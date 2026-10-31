@@ -40,7 +40,7 @@ const SITE = {
     {
       photos: ["photos/p13.png", "photos/p14.png", "photos/p15.png", "photos/p16.png", "photos/P17.png"],
       date: "",
-      title: "Happiness in Clark",
+      title: "CLARK",
       message: "Eto yung time na mas madalas na tayong mag-update sa isa't isa. Nasa Clark ako nito because of my competition, and sobrang happy ko kasi nakapag nationals ako and syempre kausap ka hehe"
     },
     {
