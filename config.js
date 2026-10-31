@@ -51,7 +51,7 @@ Kapag may problems ka or anything, you can approach me lang po. And we can still
       message: "Eto yung first na meme mo sa akin HAHAHA, ang sarap mo asarin"
     },
     {
-      photos: ["photos/p13.png", "photos/p14.png", "photos/p15.png", "photos/p16.png", "photos/P17.png"],
+      photos: ["photos/p13.png", "photos/p14.png", "photos/p15.png", "photos/p16.png", "photos/p17.png"],
       date: "",
       title: "CLARK",
       message: "Eto yung time na mas madalas na tayong mag-update sa isa't isa. Nasa Clark ako nito because of my competition, and sobrang happy ko kasi nakapag nationals ako and syempre kausap ka hehe"
@@ -114,7 +114,7 @@ Kapag may problems ka or anything, you can approach me lang po. And we can still
       photos: ["photos/p34.png", "photos/p35.png", "photos/p36.png"],
       date: "",
       title: "Cutesy",
-      message: "Ang cute mo here AHHAHAA, eto yung fav na picture ko sayo AHHAHAHA"
+      message: "Ang cute mo here AHHAHAA, eto yung fav na picture mo sa akin AHHAHAHA"
     },
     {
       photos: ["photos/p37.png", "photos/p38.png", "photos/p39.png"],
