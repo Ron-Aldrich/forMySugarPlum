@@ -1,6 +1,6 @@
 
 const SITE = {
-  title: "Our Little Story",
+  title: "Just us",
   subtitle: "Scroll slowly. Every picture has something I want to tell you.",
   videosTitle: "Moments that moved",
   music: "music/sparks.mp3",          // put your song in the "music" folder
@@ -8,11 +8,11 @@ const SITE = {
   introButton: "Tap to begin",
 
   letterTitle: "One last thing",
-  letter: `Write your long message here.
+  letter: `Hello, MySugarPlum.
 
-Leave an empty line between paragraphs, like this, so each one is easy to read.
 
-You can write as much as you want. There is no limit.`,
+
+`,
   letterSign: "Rona, Ronacles, mahhboy, abunjing, ron",
 
   ending: "Whenever you miss me,\nthis place will always be here.",
@@ -21,123 +21,123 @@ You can write as much as you want. There is no limit.`,
     {
       
       photos: ["photos/p1.png",],
-      date: "The day we met",
-      title: "Where it started",
-      message: "Write your message for this picture here.\nYou can use more than one line."
+      date: "",
+      title: "The day we met",
+      message: "So eto yung first encounter natin before pa tayo mag-usap, HGAHAHA. Eto yung time na mag-pinsan tayo HAHAHA "
     },
     {
       photos: ["photos/p2.png", "photos/p3.png", "photos/p4.png", "photos/p5.png", "photos/p6.png", "photos/p7.png", "photos/p8.png"],
-      date: "Date or place",
-      title: "A small title",
-      message: "Tell her what this moment meant to you."
+      date: "",
+      title: "Our First Call",
+      message: "Eto yung time na nag-Goole Meet tayo HAHAHA, Gulat na gulat ka kasi bakit google meet. And eto rin yung time na nanood tayo ng Doraemon together then naka sleep ka"
     },
     {
-      photos: ["photos/p9.png", "photos/p10.png", "photos/p10.png", "photos/p12.png"],
-      date: "Date or place",
-      title: "Another memory",
-      message: "Tell her what you remember most about this day."
+      photos: ["photos/p9.png", "photos/p10.png",  "photos/p12.png"],
+      date: "",
+      title: "My First MEME",
+      message: "Eto yung first na meme mo sa akin HAHAHA, ang sarap mo asarin"
     },
     {
-      photos: ["photos/p13.png", "photos/p14.png", "photos/p15.png", "photos/P16.png", "photos/P17.png"],
-      date: "Date or place",
-      title: "Another memory",
-      message: "Tell her what you remember most about this day."
+      photos: ["photos/p13.png", "photos/p14.png", "photos/p15.png", "photos/p16.png", "photos/P17.png"],
+      date: "",
+      title: "Happiness in Clark",
+      message: "Eto yung time na mas madalas na tayong mag-update sa isa't isa. Nasa Clark ako nito because of my competition, and sobrang happy ko kasi nakapag nationals ako and syempre kausap ka hehe"
     },
     {
       photos: ["photos/p18.png", "photos/p19.png"],
-      date: "Date or place",
-      title: "Another memory",
-      message: "Tell her what you remember most about this day."
+      date: "",
+      title: "2 Idiots",
+      message: "Eto yung nag-watch tayo ng movie titled 'The 3 Idiots' HAHAHA, pero nakakainis kasi hindi natin natapos"
     },
     {
       photos: ["photos/p20.png", "photos/p21.png", "photos/p22.png"],
-      date: "Date or place",
-      title: "Another memory",
-      message: "Tell her what you remember most about this day."
+      date: "",
+      title: "1.2.3  Smilee",
+      message: "Ayun sabi ko mag pose-pose ka kasi mag picture tayo hehehe"
     },
     {
       photos: ["photos/p23.png", "photos/p24.png"],
-      date: "Date or place",
-      title: "Another memory",
-      message: "Tell her what you remember most about this day."
+      date: "",
+      title: "Smile ulit!",
+      message: "Ayun lagi na ako nag p-picture HAHAHA cuz why not dibahh"
     },
     {
       photos: ["photos/p25.png", "photos/p27.png", "photos/p27.png"],
-      date: "Date or place",
-      title: "Another memory",
-      message: "Tell her what you remember most about this day."
+      date: "",
+      title: "Cute na Kalbo",
+      message: "Ang cute mo here kahit kalbo ka na naka thumb up HAHAHAHA"
     },
     {
       photos: ["photos/p28.png", "photos/p29.png"],
-      date: "Date or place",
-      title: "Another memory",
-      message: "Tell her what you remember most about this day."
+      date: "",
+      title: "Moved by you",
+      message: "Eto yung time na nag sleep over kayo with your friends and yung nag live rin si hana AHHAHA, and dumagdag yung meme mo sa akin HAHAHA"
     },
     {
       photos: ["photos/p30.png"],
-      date: "Date or place",
-      title: "Another memory",
-      message: "Tell her what you remember most about this day."
+      date: "",
+      title: "Sleepwell",
+      message: "Eto yung naka sleep ka ng early cuz you're kapoyyy kasi"
     },
     {
       photos: ["photos/p31.png"],
-      date: "Date or place",
-      title: "Another memory",
-      message: "Tell her what you remember most about this day."
+      date: "",
+      title: "Baddie in Sto. Tomas",
+      message: "Ang pretty & hot mo here, I dunno why ka naka ganyan AHHAHAHA "
     },
     {
       photos: ["photos/p32.png"],
-      date: "Date or place",
-      title: "Another memory",
-      message: "Tell her what you remember most about this day."
+      date: "",
+      title: "Customer",
+      message: "Eto yung may nag bigay sainyo ng 100 pesos and nag ice-cream kayo HAHAHA, and para kang ini-interview HAHAHAHA ang cute langg"
     },
     {
       photos: ["photos/p33.png"],
-      date: "Date or place",
-      title: "Another memory",
-      message: "Tell her what you remember most about this day."
+      date: "",
+      title: "ANG KATI NG PAA KO",
+      message: "Eto yung pang-annoy ko sayo sa google meet with my famous line 'ANG KATI NG PAA KO' HAHAHAHA. Basta ang goal ko there is asarin ka HAHAHA"
     },
     {
       photos: ["photos/p34.png", "photos/p35.png", "photos/p36.png"],
-      date: "Date or place",
-      title: "Another memory",
-      message: "Tell her what you remember most about this day."
+      date: "",
+      title: "Cutesy",
+      message: "Ang cute mo here AHHAHAA, eto yung fav na picture ko sayo AHHAHAHA"
     },
     {
       photos: ["photos/p37.png", "photos/p38.png", "photos/p39.png"],
-      date: "Date or place",
-      title: "Another memory",
-      message: "Tell her what you remember most about this day."
+      date: "",
+      title: "Crying kc",
+      message: "wawa namana ng kc na yan nag cry-cry HAHAHAHA, another picture mo na naman na cute :> "
     },
     {
       photos: ["photos/p40.png", "photos/p41.png"],
-      date: "Date or place",
-      title: "Another memory",
-      message: "Tell her what you remember most about this day."
+      date: "",
+      title: "THE ARMPIT",
+      message: "Eto yung picture na ayaw mo na i-comment ko sa threads mo HAHAHAHA, ni comment ko na siya before and ni-delete mo HAHAHA surry pu :> "
     },
     {
       photos: ["photos/p42.png"],
-      date: "Date or place",
-      title: "Another memory",
-      message: "Tell her what you remember most about this day."
+      date: "",
+      title: "SMURF",
+      message: "Eto yung time na nasa room ka ni kuya mo para kausapin lang ako HAHAHA color blue ka. Pero ang sweet ha enebe HAHAHAHA"
     },
     {
       photos: ["photos/p43.png", "photos/p44.png", "photos/p45.png"],
-      date: "Date or place",
-      title: "Another memory",
-      message: "Tell her what you remember most about this day."
+      date: "",
+      title: "K-POP IDOL",
+      message: "Eto yung pina-try ko sayo mag bangs AHHAHAHA, may kamuka talaga na kpop HAHAHAHAH"
     },
     {
       photos: ["photos/p46.png", "photos/p47.png", "photos/p48.png","photos/p49.png","photos/p50.png"],
-      date: "Date or place",
-      title: "Another memory",
-      message: "Tell her what you remember most about this day."
+      date: "",
+      title: "Crazy saysay",
+      message: "Eto yung kung ano-ano pinag gagawa mo sa damit mo HAHAHAHA ang cute-cute -.-"
     },
     {
       photos: ["photos/p51.png", "photos/p52.png"],
-      date: "Date or place",
-      title: "Another memory",
-      message: "Tell her what you remember most about this day."
+      date: "",
+      title: "Artist",
+      message: "Eto yung time na na-reveal ko yung hidden talent ko sa pag d-drawing HAHAHAHAHA, masterpiece ko yan AHHAHA panis ka. Pwede na pang International AHHAHAHA"
     },
     {
       photos: ["photos/p53.png"],
