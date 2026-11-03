@@ -4,7 +4,7 @@ const UPDATES = {
   entries: [
     {
       date: "2026-11-03",                 
-      message: ""
+      message: "Mamayang gabi pu me mag update here hehe, I just added this feature po hehe"
     }
     
   ]
