@@ -19,13 +19,16 @@ if (i < 0) {
   $('dDate').textContent = new Date(y, m - 1, d).toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' });
   document.title = $('dDate').textContent;
 
+  const short = new Date(y, m - 1, d).toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
   (e.photos || (e.photo ? [e.photo] : [])).forEach(src => {
-    const f = el('div', 'd-frame');
+    const f = el('figure', 'polaroid');
+    const win = el('div', 'p-win');
     const img = new Image();
     img.alt = 'Picture from ' + e.date;
-    img.onerror = () => { f.innerHTML = ''; f.appendChild(el('div', 'empty', 'Add your photo: ' + src)); };
+    img.onerror = () => { win.innerHTML = ''; win.appendChild(el('div', 'empty', 'Add your photo: ' + src)); };
     img.src = src;
-    f.appendChild(img);
+    win.appendChild(img);
+    f.append(el('span', 'tape'), win, el('figcaption', '', short + ' \u2661'));
     $('dPhotos').appendChild(f);
   });
 
