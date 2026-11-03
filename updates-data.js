@@ -1,5 +1,5 @@
 const UPDATES = {
-  title: "Daily notes",
+  title: "Hola!",
   subtitle: "One small note for every day.",
   entries: [
     {
