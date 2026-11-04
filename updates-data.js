@@ -35,7 +35,7 @@ Have a great day and night po! Sleep well!!!`
       ],
       message: `Hello po! Good evening po!
 
-Hola!, so am happy cuz nag i-improve ako mag table tennis ehe. And kaninamgg morning is nag read ulit ako ng word of God mwehe.
+Hola!, so am happy cuz nag i-improve ako mag table tennis ehe and yung grade ko sa PE is 96 lang :<. And kaninamgg morning is nag read ulit ako ng word of God mwehe.
 
 I hope you are doing well po, and always take care po.
 I miss you so much!!!:<
