@@ -69,3 +69,8 @@
 .fab:hover,.fab:focus-visible{background:var(--pine);outline:none}
 .fab:active{transform:scale(.96)}
 @media (max-width:360px){.fab{padding:0 .9rem 0 .8rem;font-size:.85rem}}
+
+/* Music button on the updates pages */
+.u-music{position:fixed;right:max(1rem,env(safe-area-inset-right));bottom:max(1rem,env(safe-area-inset-bottom));z-index:40;width:44px;height:44px;border-radius:50%;border:1px solid var(--sage);background:rgba(14,29,21,.78);color:var(--mist);font-size:1.2rem;cursor:pointer;backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px);transition:background .3s,opacity .3s}
+.u-music:hover,.u-music:focus-visible{background:var(--pine);outline:none}
+.u-music.off{opacity:.55;text-decoration:line-through}

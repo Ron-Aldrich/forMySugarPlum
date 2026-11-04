@@ -24,6 +24,26 @@ And I think maidadagdag ko 'to sa routine ko every night hehe, nyeenye.
 
 Have a great day and night po! Sleep well!!!`
     },
+    {
+      date: "2026-11-04",
+      photos: [
+        "/upt/nov4/1.jpg",
+        "/upt/nov4/2.jpg",
+        "/upt/nov4/3.jpg",
+        "/upt/nov4/4.jpg",
+        
+      ],
+      message: `Hello po! Good evening po!
+
+Hola!, so am happy cuz nag i-improve ako mag table tennis ehe. And kaninamgg morning is nag read ulit ako ng word of God mwehe.
+
+I hope you are doing well po, and always take care po.
+I miss you so much!!!:<
+
+Psalm 46:10
+"Be still, and know that I am God" 
+everything is going to be alright. `
+    },
     
   ]
 };
