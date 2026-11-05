@@ -44,6 +44,26 @@ Psalm 46:10
 "Be still, and know that I am God" 
 everything is going to be alright. `
     },
+    {
+      date: "2026-11-05",
+      photos: [
+        "/upt/nov5/1.jpg",
+        "/upt/nov5/2.jpg",
+        "/upt/nov5/3.jpg",
+        "/upt/nov5/4.jpg",
+        
+      ],
+      message: `Hello po! Good evening po!
+
+Hola mi amo! , I saw your repost about sa bible and ayun, nag shift muna ako sa john HAHAHAHA.
+and after mag bible study is nag laro ng table tennis hehe. I am so tired :< and i miss you so much!!!.
+
+nakakainis, muntikan na ako maging jejemon kagabi HAHAHAHA
+
+I hope you're doing well po!, take care po always ha!
+Goodnight and sleep well later!`
+    },
+    
     
   ]
 };
