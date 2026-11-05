@@ -55,7 +55,7 @@ everything is going to be alright. `
       ],
       message: `Hello po! Good evening po!
 
-Hola mi amo! , I saw your repost about sa bible and ayun, nag shift muna ako sa john HAHAHAHA.
+Hola mi amor! , I saw your repost about sa bible and ayun, nag shift muna ako sa john HAHAHAHA.
 and after mag bible study is nag laro ng table tennis hehe. I am so tired :< and i miss you so much!!!.
 
 nakakainis, muntikan na ako maging jejemon kagabi HAHAHAHA
