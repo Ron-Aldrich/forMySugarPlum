@@ -63,6 +63,31 @@ nakakainis, muntikan na ako maging jejemon kagabi HAHAHAHA
 I hope you're doing well po!, take care po always ha!
 Goodnight and sleep well later!`
     },
+    {
+      date: "2026-11-06",
+      photos: [
+        "/upt/nov6/1.jpg",
+        "/upt/nov6/2.jpg",
+        "/upt/nov6/3.jpg",
+        "/upt/nov6/4.jpg",
+        "/upt/nov6/5.jpg",
+        "/upt/nov6/6.jpg",
+        
+      ],
+      message: `Hola! Good evening po!
+
+Hiiii potpot HAHAHAHA
+soayumm same routine lang po yesterday and nag code din kanina HAHAHA.
+I thought na hindi na ako maglalaro pero bigla sila nag-aya 😭
+And it's okay po if you can't do the same, am happy na rin po sa progress mo. Keep it up po!
+
+I miss you so muchh much!!!
+I hope you're doing well po!!
+always take care ha!, and  always do your best po!!.
+
+Goodnight and sleepwell po later!
+`
+    },
     
     
   ]
