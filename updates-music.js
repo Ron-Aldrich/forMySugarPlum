@@ -1,5 +1,5 @@
 (function () {
-  var SRC = 'music/fireflies.mp3';   // put your song here
+  var SRC = 'music/street.mp3';   // put your song here
   var K_ON = 'updMusicOn', K_T = 'updMusicTime';
   var ss = {
     get: function (k) { try { return sessionStorage.getItem(k); } catch (e) { return null; } },
