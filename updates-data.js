@@ -88,6 +88,29 @@ always take care ha!, and  always do your best po!!.
 Goodnight and sleepwell po later!
 `
     },
+    {
+      date: "2026-11-07",
+      photos: [
+        "/upt/nov7/1.jpg",
+        "/upt/nov7/2.jpg",
+        "/upt/nov7/3.jpg",
+        
+        
+      ],
+      message: `Hola ! Good evening po!
+
+Hiiii potpots HAHAHAHA
+So nag read lang din ulit ako ng bible then nag clean ng room (nag palit ng bed-sheet, nilinis yung study table and ofc my table) hehe
+ diba ang sipag ko shet HHAHAHA
+
+ I miss you po!
+I hope you're doing well po and be strong always po!
+always take care ha!, and  always do your best po!!.
+And sana hindi na ikaw maging racist HAHAHAHAHYA
+
+Goodnight and sleepwell po later😗😗!
+`
+    },
     
     
   ]
