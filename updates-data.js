@@ -111,6 +111,26 @@ And sana hindi na ikaw maging racist HAHAHAHAHYA
 Goodnight and sleepwell po later😗😗!
 `
     },
+    {
+      date: "2026-11-08",
+      photos: [
+        "/upt/nov8/1.jpg",
+        
+        
+        
+      ],
+      message: `Hello!, Good eve po
+
+I am dissapointed sa sarili ko :<,
+hindi ako nakapag simba kanina :(
+and nakakainis parang naka higa lang ginawa ko mag-damag :(
+
+pero ayun nag read pa rin naman ako ng bible
+I hope you're doing good po and always do your best
+Ingat ikaw bukas sa school.
+I miss you always
+Goodnight and Sleepwell later po!...`
+    },
     
     
   ]
