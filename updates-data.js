@@ -131,7 +131,33 @@ Ingat ikaw bukas sa school.
 I miss you always
 Goodnight and Sleepwell later po!...`
     },
-    
+    {
+      date: "2026-11-09",
+      photos: [
+        "/upt/nov9/1.jpg",
+        "/upt/nov9/2.jpg",
+        "/upt/nov9/3.jpg",
+        "/upt/nov9/4.jpg",
+        "/upt/nov9/5.jpg",
+        
+        
+        
+      ],
+      message: `Hola, Good evening po potpot
+
+So ayun first day ng class
+nakakainis kasi flag ceremony lang yung pinuntahan ko
+kasi wala pang schedule :<
+then nag sleep me sa office then after is pumunta me sa robinson mag-isa
+and umuwi na din HAHAHAH
+and ofc after mag sleep nag read ulit me bible
+
+I miss you po:<
+I hope you're doing good po and always take care po ha
+and galingan mo palagi!
+
+Goodnight and sleep po mamaya!`
+    },
     
   ]
 };
