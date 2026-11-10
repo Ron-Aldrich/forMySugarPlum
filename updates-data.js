@@ -186,12 +186,10 @@ Goodnight and sleep po mamaya!`
 
       I hope medjo gumaan po yung nararamdaman mo right now po:>
 
-      I'm just here lang hehe. And I have something for you, just wait hehe.
+      I'm just here lang po. And I have something for you, just wait hehe.
 
       I miss you so much
-      Goodnight and sleepwell mamaya ha, potpot!!
-
-!`
+      Goodnight and sleepwell mamaya ha, potpot!!`
     },
     
   ]
