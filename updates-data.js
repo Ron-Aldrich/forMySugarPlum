@@ -158,6 +158,41 @@ and galingan mo palagi!
 
 Goodnight and sleep po mamaya!`
     },
+    {
+      date: "2026-11-10",
+      photos: [
+        "/upt/nov10/1.png",
+        
+        
+        
+        
+      ],
+      message: `Good Good eveningg
+
+      Hello, wala muna me update today ha:<
+      about last night po I am really sorry po ha:<
+      siguro kung hindi me nag online hindi ka mag-kakaganyan
+
+      And it's okay lang po if nag deactivate you, sana malagpasan mo yang mga problems mo:>
+      you're strong girl diba, kaya kaya mo yan!!!
+      And kapag parang sad ka ulit or parang feels heavy, pray lang po ikaw
+      and always ko rin ni p-pray everynight na maging okay na you
+      
+      Sabi nga sa PHILIPPIANS 4 : 6 - 9
+
+      Don't worry about anything; instead, pray about everything. Tell God what you need, and thank him for all he has done. Then you will experience God's peace, which exceeds anything we can understand.
+      His peace will guard your hearts and minds as you live in Christ Jesus.
+      And now, dear brothers and sisters, one final thing. Fix your thoughts on what is true, and honorable, and right, and pure, and lovely, and admirable. Think about things that are excellent and worthy of praise, Keep putting into practice all you learned and received from me-everything you heard from me and saw me doing. Then the God of peace will be with you.
+
+      I hope medjo gumaan po yung nararamdaman mo right now po:>
+
+      I'm just here lang hehe. And I have something for you, just wait hehe.
+
+      I miss you so much
+      Goodnight and sleepwell mamaya ha, potpot!!
+
+!`
+    },
     
   ]
 };
