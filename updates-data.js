@@ -159,6 +159,32 @@ and galingan mo palagi!
 Goodnight and sleep po mamaya!`
     },
     {
+      date: "2026-11-11",
+      photos: [
+        "/upt/nov11/1.jpg",
+         "/upt/nov11/2.jpg",
+        
+        
+        
+        
+      ],
+      message: `Holla potpot Good evenning po!
+
+      So wala kami pasok every wednesday AHAHAHA, I dunno if papalitan pa nila yung schedd
+
+      ayun nakahiga lang mag-damag sa bahay cuz tinatamad sa lahat :<
+      I hope na you're okay na po:>, and I hope you're doing well poo!.
+      Always do your best ha!
+
+      I miss you so much po
+      Goodnight and sleepwell and sweetdreams latur po!
+
+
+
+      `
+    },
+
+    {
       date: "2026-11-10",
       photos: [
         "/upt/nov10/1.png",
