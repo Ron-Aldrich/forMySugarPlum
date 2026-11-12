@@ -240,6 +240,8 @@ Goodnight and sleep po mamaya!`
 
       kasi kanina 7 am class namin then around 3 to 4 hours lang sleep ko, then kanina kasi is wala yung isang prof namin kaya nag pumunta ako sa citymall nag play ng table tennis and bumalik sa school na nag r-rush and naglakad rin ako ng malayo huhu kaya ang sakit ng calves ko:<<<
 
+      And nakaka sad cuz 91 lang ako sa programming HUHUHU
+
       And after ng class namin is umuwi na agad me na soafer tired
       and marami akong need gawin nakakainis AHHAHAHA
       pero kahit busy ako I will keep doing this po
