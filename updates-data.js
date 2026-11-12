@@ -158,31 +158,7 @@ and galingan mo palagi!
 
 Goodnight and sleep po mamaya!`
     },
-    {
-      date: "2026-11-11",
-      photos: [
-        "/upt/nov11/1.jpg",
-         "/upt/nov11/2.jpg",
-        
-        
-        
-        
-      ],
-      message: `Holla potpot Good evenning po!
 
-      So wala kami pasok every wednesday AHAHAHA, I dunno if papalitan pa nila yung schedd
-
-      ayun nakahiga lang mag-damag sa bahay cuz tinatamad sa lahat :<
-      I hope na you're okay na po:>, and I hope you're doing well poo!.
-      Always do your best ha!
-
-      I miss you so much po
-      Goodnight and sleepwell and sweetdreams latur po!
-
-
-
-      `
-    },
 
     {
       date: "2026-11-10",
@@ -216,6 +192,69 @@ Goodnight and sleep po mamaya!`
 
       I miss you so much
       Goodnight and sleepwell mamaya ha, potpot!!`
+    },
+
+
+    {
+      date: "2026-11-11",
+      photos: [
+        "/upt/nov11/1.jpg",
+         "/upt/nov11/2.jpg",
+        
+        
+        
+        
+      ],
+      message: `Holla potpot Good evenning po!
+
+      So wala kami pasok every wednesday AHAHAHA, I dunno if papalitan pa nila yung schedd
+
+      ayun nakahiga lang mag-damag sa bahay cuz tinatamad sa lahat :<
+      I hope na you're okay na po:>, and I hope you're doing well poo!.
+      Always do your best ha!
+
+      I miss you so much po
+      Goodnight and sleepwell and sweetdreams latur po!
+
+
+
+      `
+    },
+
+
+    {
+      date: "2026-11-12",
+      photos: [
+        "/upt/nov12/1.jpg",
+         "/upt/nov12/2.jpg",
+         "/upt/nov12/3.jpg",
+        
+        
+        
+        
+      ],
+      message: `Good evening po KC!
+
+      So ayun na ni-meet kami ng mga prof namin and ni orient kami about sa subject hehehs
+      I am soafer tired today like I feel na parang may sakit aku:< ang hot hot koo
+
+      kasi kanina 7 am class namin then around 3 to 4 hours lang sleep ko, then kanina kasi is wala yung isang prof namin kaya nag pumunta ako sa citymall nag play ng table tennis and bumalik sa school na nag r-rush and naglakad rin ako ng malayo huhu kaya ang sakit ng calves ko:<<<
+
+      And after ng class namin is umuwi na agad me na soafer tired
+      and marami akong need gawin nakakainis AHHAHAHA
+      pero kahit busy ako I will keep doing this po
+
+      I hope you are doing well po KC:>
+
+      sometimes napapatunganga ako:<
+      I'm really miss you na po :<
+      Goodnight and sleepwell po mamaya!:)
+
+     
+
+
+
+      `
     },
     
   ]
