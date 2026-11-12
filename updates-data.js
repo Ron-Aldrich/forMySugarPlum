@@ -235,7 +235,7 @@ Goodnight and sleep po mamaya!`
       ],
       message: `Good evening po KC!
 
-      So ayun na ni-meet kami ng mga prof namin and ni orient kami about sa subject hehehs
+      So ayun na ni-meet kami ng mga prof namin and ni orient kami about sa subject hehehs and soafer laugh ko sa spelling ng counselor HAHAHAHAHA
       I am soafer tired today like I feel na parang may sakit aku:< ang hot hot koo
 
       kasi kanina 7 am class namin then around 3 to 4 hours lang sleep ko, then kanina kasi is wala yung isang prof namin kaya nag pumunta ako sa citymall nag play ng table tennis and bumalik sa school na nag r-rush and naglakad rin ako ng malayo huhu kaya ang sakit ng calves ko:<<<
