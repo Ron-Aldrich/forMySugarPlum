@@ -252,9 +252,36 @@ Goodnight and sleep po mamaya!`
       I'm really miss you na po :<
       Goodnight and sleepwell po mamaya!:)
 
+      `
+    },
+
+    {
+      date: "2026-11-13",
+      photos: [
+        "/upt/nov13/1.jpg",
+         "/upt/nov13/2.jpg",
+         "/upt/nov13/3.jpg",
+         "/upt/nov13/4.jpg",
+        
+        
+        
+        
+      ],
+      message: `Halo KC good eve poi
+
+      So nanood me ng gymnastic cuz city meet this day and online class din naman this day ehe. And kanina nung pag punta ko, bigla ni announce nung name ko "former gymnastic" kinemerut AHHAHAHAHA eh andaming tao huhuh
+
+      and nakakainis, bumili ako ng rubber for table tennis blade, eh mali ako nang nabili tas yung price pa is 530 huhuhu kainis eh hindi ko naman pwede na ibalik arghhhh
+
+      I hope na you're doing well po potpot:>
+
+      hindi naman required na i-read mo always 'to
+      I just want lang na mag-update:>
+
+      Goodnight and sleepwell po mamayaa!!!
+      imy.
+
      
-
-
 
       `
     },
