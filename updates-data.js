@@ -285,6 +285,40 @@ Goodnight and sleep po mamaya!`
 
       `
     },
+
+
+    {
+      date: "2026-11-14",
+      photos: [
+        "/upt/nov14/1.jpg",
+        "/upt/nov14/2.jpg",
+        "/upt/nov14/3.jpg",
+         
+        
+        
+        
+        
+      ],
+      message: `Good evening potpottttt
+
+      so ayun nakakainis, ROTC na naman😭😭. And and this semester is nakababad na kami sa init AHHAHAHA kainis, magiging nigga na ako. anyway stop being racism po HAHAHA
+
+      ayun after rotc is nag sleep me sa office, 2 lang kaming tao kanina HAHAHAHA 11 to 2pm.
+
+      Nakakainis naman, Naglalaro lang ako tapos may ganito ang CRINGE AHAHAHAHHAHAHAHA
+
+      I hope you're good and doing well po!!
+      Always take care and always do your best ha
+      Goodnight and sleepwell po laturr!
+
+      I miss you so much:>>
+
+      
+
+     
+
+      `
+    },
     
   ]
 };
