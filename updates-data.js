@@ -344,10 +344,27 @@ Goodnight and sleep po mamaya!`
       Goodnight and sleep well po later!
       I miss you always!
 
+      `
+    },
 
-      
+     {
+      date: "2026-11-16",
+      photos: [
+        "/upt/nov16/1.jpg",
+        "/upt/nov16/2.jpg",
+        
+        
+      ],
+      message: `Good evening KC!
 
-     
+      nakaka haggard 7 AM to 7PM HUHUH:<
+      straight 7 am pa kami😭
+
+      I hope you're doing well po ha:>, and always do your best!!
+
+      I miss you so much much po!!
+
+      Goodnight and sleepwell po later!!!
 
       `
     },
