@@ -368,6 +368,37 @@ Goodnight and sleep po mamaya!`
 
       `
     },
+
+    {
+      date: "2026-11-17",
+      photos: [
+        "/upt/nov17/1.jpg",
+        "/upt/nov17/2.jpg",
+        "/upt/nov17/3.jpg",
+        
+        
+      ],
+      message: `Hello po good eve pu:>>
+
+      ayun second day ng 7 am to 7 pm HUHUHUHU nakaka haggardd
+      pero ayun nakaka excite dinn
+      
+      And nag debate kami sa STS(Science Technology Society) about sa AI and PAX SILICA AHAYHHAHA syempre alam  mo naman ako na bida-bida AHAHHAHA
+
+      nihati yung group, team DUTERTE and team MARCOS AHAHGAHAHHAHA may marcos kaming cm eh. mala politics yarn HAHAHAHA
+      ayun lesson learned: wag maging aggresive, dapat mahinahon lang sumagot HAHAHAHA 
+
+      I saw your repost po:<. You are not a loser okayy!!
+      magiging okay ka din pu and mahahanap mo rin yung sarili mo or self esteem woah AHHAHAHA
+
+      I hope you're doing well po and always do you best sa school ha 
+
+      Goodnight and sleep well po latur
+
+      I miss you muchmcuhh:>
+
+      `
+    },
     
   ]
 };
