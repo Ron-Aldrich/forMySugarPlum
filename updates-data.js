@@ -399,6 +399,34 @@ Goodnight and sleep po mamaya!`
 
       `
     },
+
+
+    {
+      date: "2026-11-18",
+      photos: [
+        "/upt/nov18/1.jpg",
+        
+        
+        
+      ],
+      message: `GOOD EVENING PU:>>
+
+      Ayun every wednesday is wala kami class hehe
+      nag review me cuz why not divanch ang sipag ko HAHAHAHAHA
+
+      How are you po?, I hope you're okay po:>
+      I miss your voice :<
+      I want to call you:/
+
+      I hope you're doing good po:>
+      Always do your best po hah!
+
+      Goodnight and sleep well po and sweetdreams mamaya po!!
+
+      I miss you somuchH!
+
+      `
+    },
     
   ]
 };
