@@ -428,5 +428,32 @@ Goodnight and sleep po mamaya!`
       `
     },
     
+
+    {
+      date: "2026-11-19",
+      photos: [
+        "/upt/nov19/1.jpg",
+        "/upt/nov19/2.jpg",
+        "/upt/nov19/3.jpg",
+        
+        
+        
+      ],
+      message: `Good evening po potpot!
+      
+      ayun nag attend me ng seminar abaout AI "REYAL OR FAKE" AHHAHAHA
+      and after nun ilang oras na naman vacant namin
+
+      Nakakainis yung quiz kanina, alam kong 36 yung sagot pero 26 yung nalagay ko 😭😭, pero I thinbk ako naman ung highest HAHAHA sana
+
+      And katatapos lang ng ol class namin kanina, buti ol kasi night class :-
+
+      I hope you're good po. Always do your best po huh!!
+
+      Goodnight and sleep well po laturr.
+      Imisssomuch & ILOVEUUU
+
+      `
+    },
   ]
 };
