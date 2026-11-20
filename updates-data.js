@@ -455,5 +455,35 @@ Goodnight and sleep po mamaya!`
 
       `
     },
+
+    
+    {
+      date: "2026-11-20",
+      photos: [
+        "/upt/nov20/1.jpg",
+        "/upt/nov20/2.jpg",
+        "/upt/nov20/3.jpg",
+        "/upt/nov20/4.jpg",
+        "/upt/nov20/5.jpg",
+        
+        
+        
+      ],
+      message: `Helloo Good evening poo:>
+      
+      Sorry late pu cuz nag attend me ng discipleship and praying kanina
+      and wala kami pasok cuz online class lahat pero andami activity 😭😭
+
+      and yung sa ethics kanina. "Sino ang pipiliin ko? Mahal ko o mahal ako?" yung mga sagot nila is "yung mahal ako" kasi raw matutunan din naman daw nila mahalin, syempre ako naman na bida-bida ang sagot ko is "mahal ko" syempre kung matutunan mo na mahalin edi what if matutunan ka rin nya mahalin dibaaag AHHAHAHAHAHAHA
+
+      and if want mo ng reviewer about ethics/morality check mo nalang here sa section website namin heheshs: "https://bsit1b-2sbi.onrender.com"
+
+      I am happy narin cuz I saw ur story sa tikitoktok. wow new table mo? nag a-aral na sha AHHAHAHA. Keep it up po!!
+
+      Goodnight and sleepwell po laturr!:>>
+      Imissyouverymuchmuch!
+
+      `
+    },
   ]
 };
