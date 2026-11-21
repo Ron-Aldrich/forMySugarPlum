@@ -485,5 +485,39 @@ Goodnight and sleep po mamaya!`
 
       `
     },
+
+    {
+      date: "2026-11-21",
+      photos: [
+        "/upt/nov21/1.jpg",
+        "/upt/nov21/2.jpg",
+        "/upt/nov21/3.jpg",
+        "/upt/nov21/4.jpg",
+        "/upt/nov21/5.jpg",
+        "/upt/nov21/6.jpg",
+        "/upt/nov21/7.jpg",
+        "/upt/nov21/8.jpg",
+        "/upt/nov21/9.jpg",
+        "/upt/nov21/10.jpg",
+        
+        
+        
+      ],
+      message: `Yoo good evening po KC:>
+
+      Ayun nag rotc kanina buti walang ginawa AHAHHAHA. And after nung rotc is nag diretso me sa table tennis(mall) cuz am excited mag larooo mwehehe
+
+      and after is nag diretso me sa dati kong pinag-immersion para mag pa print HAHAHA, walang pinagbago ihh. 
+
+      I want na I chika sayo na kami yung gagawa ng voting site for exchange student sa aus( AUS Fellows Society Asian Undergraduate Symposium Fellows Society ) hihih, syempre ako na developer hehehshss. nakakinis ma n-nosebleed na naman AHHAHAHA. sana proud ka sa'kin:>
+
+      Tomorrow is sunday right? HAHAHAH wala lang hehe😁
+      I hope you're doing well po and always always do your best po huh!!
+
+      Goodnight and sleep well po latur ha!
+      Imissyouveryverymuchmuch!!!
+
+      `
+    },
   ]
 };
