@@ -519,5 +519,33 @@ Goodnight and sleep po mamaya!`
 
       `
     },
+
+
+    {
+      date: "2026-11-22",
+      photos: [
+        "/upt/nov22/1.jpg",
+        "/upt/nov22/2.jpg",
+  
+      ],
+
+      message: `HELLOo Good evening po hehe:>
+
+      Ayun I am super happy cuz na received mo na yung cube hehe
+      soon mas mabilis na ikaw sa akin AHHAHAHA, and yung voice mo parang nag change AHHAHAHA
+
+      I hope na nagustuhan mo talaga sha hehe, sorry medjo natagalan galing pa kasi sa china eh AHHAHAHA
+
+      So ganito yan I chatted Jandi nung nov 9 and sinabi ko sakanya if pwede and ayun hindi raw kasi baka mag-taka yung parents niya AHHAHAA, si odryllo sana kaso naka deactivate HAHAHA. Siya yung una kong naisip kasi siya lang mutual ko na kilala mo eh, then I remember si Jzelle and ayun pumayag siya mwehehhe. nung nov 3 ko pa talaga ni-plan na bilhan ka ng cube pero pinag-ipunan ko muna syimpri hehe:>
+
+      I hope you're doing well po, and yung lagi kong sinasabi ha always do your best!. And always take care din po
+
+      Goodnight po latur and sleep well po.
+      I miss you so muchh!!!!!!:>
+
+      `
+    },
+
+    
   ]
 };
