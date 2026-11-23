@@ -546,6 +546,38 @@ Goodnight and sleep po mamaya!`
       `
     },
 
+
+    {
+      date: "2026-11-23",
+      photos: [
+        "/upt/nov23/6.jpg",
+        "/upt/nov23/1.jpg",
+        "/upt/nov23/2.jpg",
+        "/upt/nov23/3.jpg",
+        "/upt/nov23/4.jpg",
+        "/upt/nov23/5.jpg",
+        
+  
+      ],
+
+      message: `Holla mi amorr, good evening po!
+
+      So wala kaming pasok kaninaa cuz asynchronous kasi brownout hehe
+
+      Ayun nag table tennis na naman ang cutesy na tohh and after bumili na ng mga needs for school activitiy mwhehe
+
+      sorry now lang cuz nag c-cram ako huhuh, ang daming activity and syempre nag start na din me gawin yung voting system cuz sa wednesday na i c-check hehehe, nose bleed na naman
+
+      I hope you're doing well po, and always do your best po ha lagi mong galinga(tinagalog lang eh HAHAHA)
+
+      Good night and sleep well po and sweetdreams po laturr!
+
+      Imissyou muchmuchh!!
+      I love admiring you from afar!
+
+      `
+    },
+
     
   ]
 };
