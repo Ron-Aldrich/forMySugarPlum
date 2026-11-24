@@ -578,6 +578,41 @@ Goodnight and sleep po mamaya!`
       `
     },
 
+
+     {
+      date: "2026-11-24",
+      photos: [
+        "/upt/nov24/1.jpg",
+        "/upt/nov24/2.jpg",
+        "/upt/nov24/3.jpg",
+        "/upt/nov24/4.jpg",
+      
+  
+      ],
+
+      message: `Hollaaa Good evening po mwehehee:>
+
+      Ayun may pasok na naman ganito na ba talaga kapag college? HAHAHAH.
+
+      mga babae na lagi kasama ko(mga cm ko nung first sem and isang boy) onti lang close ko sa mga new classmate ko this sem HAHAHAH ayun tamang review
+
+      And nakakainis kasi perfect ko na sana yung quiz, naging 18/20 pa kainis
+
+      And ayun ginagawa ko na rin yung voting system hehe, I hope na magustuhan nila:>
+
+      Kinukuha rin ako na mag judge ng mga films AHAHAHAHA nakakahiyaaa
+
+      I hope you're doing well po and always take care po and always do your best po as always haa
+
+      Good night and sleep well po laturrrr
+
+      I miss youu:>>
+
+
+
+      `
+    },
+
     
   ]
 };
