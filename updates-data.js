@@ -577,8 +577,6 @@ Goodnight and sleep po mamaya!`
 
       `
     },
-
-
      {
       date: "2026-11-24",
       photos: [
@@ -607,6 +605,35 @@ Goodnight and sleep po mamaya!`
       Good night and sleep well po laturrrr
 
       I miss youu:>>
+
+      `
+    },
+     {
+      date: "2026-11-25",
+      photos: [
+        "/upt/nov25/1.jpg",
+        "/upt/nov25/2.jpg",
+        "/upt/nov25/3.jpg",
+        "/upt/nov25/4.jpg",
+        "/upt/nov25/5.jpg",
+        "/upt/nov25/6.jpg",
+      
+  
+      ],
+
+      message: `Hello po good eveningg
+
+      Nag o-overthink me about sa mga repost mo last night and kaninang morning :<
+
+      yung kanina is about dreams, kagabi yung sa bgm and yung repost mooo about jealous,
+      last night pa me nag o-overthink dili me maka focus:<
+
+      Ayun wala me pasok kasi wednesday and naglaro me, and kanina grabe creative ni ate HAHAHAHA, yung sa slide 2 grabe ang effort
+
+      And latur ko na I p-present yung website dun sa tito mo(prof louis) AHHAHAHAH
+
+      I hope you're doing well and take care po always ah
+      Goodnight and sleep well po later and sweetdreams!
 
 
 
