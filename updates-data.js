@@ -608,7 +608,7 @@ Goodnight and sleep po mamaya!`
 
       `
     },
-     {
+    {
       date: "2026-11-25",
       photos: [
         "/upt/nov25/1.jpg",
@@ -634,6 +634,36 @@ Goodnight and sleep po mamaya!`
 
       I hope you're doing well and take care po always ah
       Goodnight and sleep well po later and sweetdreams!
+
+
+
+      `
+    },
+
+    {
+      date: "2026-11-26",
+      photos: [
+        "/upt/nov26/1.jpg",
+        "/upt/nov26/2.jpg",
+        "/upt/nov26/3.png",
+       
+  
+      ],
+
+      message: `Helloo, Good eve pu mwehe:>
+
+      May Assignment pala sa discrete(math) pero hindi ko nagawa sayang yung 30 points😭😭 nalimutan ko kasi:<, pero sana mataas yung score ko dun sa quiz huhu AHHAHAHA
+
+      and so dami naming vacant time kaninaa hehe
+      
+      Anyway, Thank you pala sa time mo kagabi, kahit na may ginagawa ka:>
+      Alam mo ba, I am not feeling well last night, pero nung nag-talk tayo ayun oki na ulit HAAHAH(woah charger yarn)
+      Yung streak natinnnnnn
+
+      I hope you're doing well po, take care po always:>
+
+      Goodnight and sleep well po laturr, I miss you!!!.
+
 
 
 
