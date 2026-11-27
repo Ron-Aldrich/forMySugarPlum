@@ -664,8 +664,35 @@ Goodnight and sleep po mamaya!`
 
       Goodnight and sleep well po laturr, I miss you!!!.
 
+      `
+    },
 
+     {
+      date: "2026-11-27",
+      photos: [
+        "/upt/nov27/1.jpg",
+        "/upt/nov27/2.jpg",
+        "/upt/nov27/3.jpg",
+        "/upt/nov27/4.jpg",
+        "/upt/nov27/5.jpg",
+        "/upt/nov27/6.jpg",
+        "/upt/nov27/7.jpg",
+       
+  
+      ],
 
+      message: `Hollaa Good evening po:)
+
+      It;s 9:49 and kakauwi ko pi kanina aroung 9:00 pm mwehhee nag attend me discipleship kaninaaa mwehehe
+      
+      Ayun panay online class kami kanina and isang subject na face to face (PATHFITH - PE) and soafer pagod cuz nag activity kaagad kami yung parang nilaro namin last time with all council. Yung dragon tails, yung need mo kunin yung pamanyo sa likod ng opponent pero naka chained kayo HAHAHAA. Yung sendn ko na may nauntog huhuh
+
+      and tom is wala kaming rotc cuz excused kasi council,, meg d-decorate dahil mag d-december na raw HAHAHAHA
+
+      How are you po?, I hope you're good and well po :>
+      Goodnight and sleepwell po laturr
+
+      I miss you and your cutesy voice:/
 
       `
     },
