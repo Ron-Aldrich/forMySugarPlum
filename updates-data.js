@@ -697,6 +697,37 @@ Goodnight and sleep po mamaya!`
       `
     },
 
+
+    {
+      date: "2026-11-28",
+      photos: [
+        "/upt/nov28/1.jpg",
+        "/upt/nov28/2.jpg",
+        
+       
+  
+      ],
+
+      message: `Hello Good evening poo:>
+
+      So excuse kami sa rotc diba sabi ko lastnight here sa website, kasi mag p-prep kami for paskuhan, pero nung pag punta ko sa office around 10 oonti yung tao, na postpone pala huhu😭😭. Ayun pumunta nalang me sa mall para mag play ng table tennis
+      buti may mga tao HAHAHAHA
+
+      And yung about sa grade ko, yung teacher kasi namin sa Contemporary World and RPH(Reading in Philippine History ) and the way na mag discuss siya is napaka useless. ni k-kwento niya yung mga lugar na kung saan siya nakapunta nakakainis, and ang taas-taas ng mga quiz namin sakanya(syempre nag cheat kami jan lang sa subject niya) kasi ano masasagot namin sa ipapa quiz niya if wala kaming gana makinig sakanya dahil sa way nang pag-turo niya:<
+      And and grade ko sakanya is 89 and 85, nakakainis lang kasi hindi ko matanggap yung 85(buti hindi below 85) kasi kapag below 85 is hindi na ako pwede mag-ka latin honor eh. And yung sa pa exam niya may nakalagay na "on this module" diba parang AI Generated:<
+
+      And may isang subject pa ako na hinahabol na hindi pa ako nakapag exam which is ELP(ENGLISH LANGUEGA PROFICIENCY) cuz implementatio and presentation ng poli-knows diba, pero may office order naman. I hope na makausap ko siya next week.
+
+      Ayun I dunno if I am okay right now po:<
+
+      I hope you're doing well po and always do your best po!
+
+      Goodnight and sleepwell po latur.
+
+      I missyou so much!
+      `
+    },
+
     
   ]
 };
